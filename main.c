@@ -4,6 +4,8 @@
 #include <stdio.h>
 #include <mpi.h>
 
+#include "helper.h"
+
 int main(int argc, char ** argv)
 {
     int node;
