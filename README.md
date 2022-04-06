@@ -2,4 +2,4 @@
 
 A simple respository for demonstrating git's capabilities
 
-Uh oh, confliction here!
+Here's a line which will conflict!
